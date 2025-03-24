@@ -32,6 +32,13 @@ ol {
 table {
   font-family: Lato, Arial, sans-serif;
   font-size:16px;
+  background-color:#dddddd;
+}
+th {
+  font-color:#ffffff;  
+  font-family: Lato, Arial, sans-serif;
+  font-size:18px;
+  background-color:#106574;
 }
 .GFG {
   align-items: center;
